@@ -38,4 +38,4 @@ prices = list(map(int, input().split()))
 
 # Calculate and print the result
 result = maxProfit(prices)
-print(result
+print(result)
